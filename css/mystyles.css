@@ -1,0 +1,16 @@
+/* .className {
+    property: value;
+    another-property: another-value;
+  } */
+
+  .post-preview > a > .post-title {
+    font-size: 1.5rem;
+}
+
+h3, .h3 {
+    font-size: 1.35rem
+}
+
+header.masthead .page-heading h1, header.masthead .page-heading .h1, header.masthead .site-heading h1, header.masthead .site-heading .h1 {
+    font-size: 3rem;
+}
